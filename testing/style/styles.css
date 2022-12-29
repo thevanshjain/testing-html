@@ -1,0 +1,11 @@
+.home {
+  font-size: 20px;
+  font-style: italic;
+  color: greenyellow;
+}
+
+.about {
+  font-size: 24px;
+  font-style: oblique;
+  color: darkgreen;
+}
